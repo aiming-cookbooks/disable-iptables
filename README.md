@@ -35,3 +35,8 @@ License and Authors
 LICENSE is MIT.
 
 2013 (c) Aiming Inc.
+=======
+disable-iptables
+================
+
+On Vagrant machine.
